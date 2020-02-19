@@ -6,10 +6,10 @@ File-Agent is a event-driven Windows service written in C++. This service checks
 ## Installation
 
 1)Install Visual Studio\
-2)Create a new Project->Windows Desktop Wizard->Next
-3)Name:CppWindowsService
-4)Clone source code for this repo
-5)Build project
+2)Create a new Project->Windows Desktop Wizard->Next\
+3)Name:CppWindowsService\
+4)Clone source code for this repo\
+5)Build project\
 
 ### Commands
 
